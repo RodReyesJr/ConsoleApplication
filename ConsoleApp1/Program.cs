@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            System.Console.BackgroundColor = ConsoleColor.Blue;
             System.Console.WriteLine("Hello from Console!");
             System.Console.ReadKey();
         }
